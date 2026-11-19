@@ -1,0 +1,6 @@
+{
+  "name": "Hayya Nata'allam — E-LKPD Bahasa Arab Kelas VII MTs",
+  "description": "Website E-LKPD Bahasa Arab Kelas VII MTs Semester 1 berbasis pembelajaran berdiferensiasi (LOW, MIDDLE, HIGH), empat maharah, mahfudzat, evaluasi, rapor digital, dan integrasi Google Spreadsheet.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
